@@ -18,7 +18,7 @@
 
 <DONE:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
  
-- firstly clone the project in Github using git clone https://github.com/github.com:JorelJordan/Azure-BuildingCI-CD.git
+- firstly clone the project in Github using git clone https://github.com/JorelJordan/Azure-BuildingCI-CD
 - create the the virtual environment using
 python -m venv ~/.myrepo
 source ~/.myrepo/bin/activate
